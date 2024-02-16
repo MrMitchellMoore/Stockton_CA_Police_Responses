@@ -19,7 +19,7 @@
 - Python (numpy and pandas)
 
 ## Data Sourcing and Collection
-### I went on stockton, ca website to get the dataset. The dataset comprised of multiple csv files from years 2021-2023.
+### I went on stockton, ca website to get the dataset. The dataset comprised of multiple csv files from years 2021-2023. The final file was too big to include in this repository.
 
 ## ETL Process
 ### The csv files were massive so i have to import them into SQL. Perform data cleaning and formatting on each file. I joined files together to make one table. I then exported it and used Python for filtering and aggregation. This was a chance to sharpen my skills with Python and see how my work flow could benefit. I then used numpy and pandas for filtering and aggregation. Creating categories on the different policies responses to further organize how I was going to visualize the data. Then exported it into Tableau.
